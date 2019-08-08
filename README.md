@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/290c2909-4de7-466a-b504-8a1ec970be27/deploy-status)](https://app.netlify.com/sites/gwood/deploys)
+
 Personal website: [gwood.me](gwood.me/)
 
 ## License
