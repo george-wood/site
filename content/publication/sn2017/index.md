@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Reducing gunshot victimization in high-risk social networks through direct and spillover effects"
-authors: [George Wood, Andrew Papachristos]
-date: 2019-01-01
+title: "The structure and vulnerability of a drug trafficking collaboration network"
+authors: [George Wood]
+date: 2017-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2019-08-08T14:34:07-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Nature Human Behavior_"
+publication: "_Social Networks_"
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [networks]
 categories: []
 featured: false
 

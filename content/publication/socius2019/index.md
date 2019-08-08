@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Structure and Vulnerability of a Drug Trafficking Collaboration Network"
-authors: [George Wood]
-date: 2017-01-01
+title: "The network structure of police misconduct"
+authors: [George Wood, Daria Roithmayr, Andrew Papachristos]
+date: "2019-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2019-08-08T14:34:07-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Social Networks_"
+publication: ""
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [networks, policing]
 categories: []
 featured: false
 
