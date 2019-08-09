@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "_Social Networks_"
 publication_short: ""
 
-abstract: ""
+abstract: "Prior research has established that collaboration networks exhibit heavy-tailed degree distributions, assortative degree mixing, and large clustering coefficients. Using court record data, we assess these properties in a collaboration network among heroin traffickers. Consistent with prior research, we find an exponential degree distribution and strong local clustering. However, the traffickers mix dissortatively by degree rather than assortatively. Using a graph sampling method, we show that a consequence of dissortative mixing is that targeted vertex removals have a greater impact on the connectivity and cohesion of the trafficking network. We also note the importance of degree mixing for characterizing and identifying topological weaknesses."
 
 # Summary. An optional shortened abstract.
 summary: ""

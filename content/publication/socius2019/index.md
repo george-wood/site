@@ -3,7 +3,7 @@
 
 title: "The network structure of police misconduct"
 authors: [George Wood, Daria Roithmayr, Andrew Papachristos]
-date: "2019-01-01"
+date: "2019-08-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Conventional explanations of police misconduct generally adopt a micro-level focus on deviant officers or a macro-level focus on the top-down organization of police departments. In between these levels are the social networks in which officers work and socialize. This study recreates networks of misconduct in which 9,225 police officers are co-named in 16,503 complaints over a six-year period in Chicago, IL. We examine individual-level factors associated with receiving a complaint, some of the basic properties of these misconduct networks, and properties related to the probability that officers are co-named in complaints. We find that the majority of police officers belong to broader networks of misconduct and that the incidence of police misconduct involving more than one officer is associated with individual-level attributes including gender, race, and tenure. We also find that certain dyadic factors, especially seniority and race, strongly predict network ties and the incidence of group misconduct."
 
 # Summary. An optional shortened abstract.
 summary: ""

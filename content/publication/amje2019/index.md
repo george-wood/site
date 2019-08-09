@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The epidemiology of gunshot violence in an urban area"
+title: "Spatio-temporal interaction of gunshot victimization in an urban area"
 authors: [George Wood, Emily Wang, Andrew Papachristos]
-date: "2019-01-01"
+date: "2019-08-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "More than 60,000 people were victimized in firearm assaults in the United States in 2016. Gunshot victimization clusters in space and time. However, the extent to which this clustering is attributable to the spatio-temporal interaction of gun violence events, where a victimization event increases the probability of a secondary victimization within a spatio-temporal domain, is less well known. We examine the space-time interaction of 575 gunshot victimizations in New Haven, CT and address the question of whether victimization events spur secondary events. Several socio-economic factors are found to be associated with the rate of victimization, including acute poverty, eviction rates, unemployment, and other indicators of economic deprivation. Net of these factors, the influence of victimizations on secondary events is small, with a triggering rate of 0.04 additional victimizations within 7 days and 2km. This secondary triggering accounts for 2–3% of gunshot victimization events in the city on average. The results indicate that the spatio-temporal interaction of gunshot victimization events is modest but nontrivial over short space-time distances."
 
 # Summary. An optional shortened abstract.
 summary: ""

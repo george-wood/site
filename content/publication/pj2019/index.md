@@ -3,7 +3,7 @@
 
 title: "Procedural justice training reduces police misconduct and use of force"
 authors: [George Wood, Tom Tyler, Andrew Papachristos]
-date: "2019-01-01"
+date: "2019-08-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Existing research shows that distrust of the police is widespread and consequential for public safety. However, there is a shortage of interventions that demonstrably reduce negative police interactions with the communities they serve. A one-day training program in Chicago attempted to encourage 7,279 officers to adopt procedural justice policing strategies. Evaluating the randomized staggered adoption of this program, we find that training reduced complaints against the police by 14%. Further, training reduced the use of force against civilians by 8.7% and officers were less likely to engage in con- duct that results in settlements and the payout of damages, reductions that were maintained for at least one year. These findings affirm the feasibility of changing the style of policing which has been associated with popular distrust and the excessive use of force through a broad training program built around the concept of procedurally just policing."
 
 # Summary. An optional shortened abstract.
 summary: ""

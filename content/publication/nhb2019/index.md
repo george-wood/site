@@ -3,7 +3,7 @@
 
 title: "Reducing gunshot victimization in high-risk social networks through direct and spillover effects"
 authors: [George Wood, Andrew Papachristos]
-date: 2019-01-01
+date: 2019-08-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ publishDate: 2019-08-08T14:34:07-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Nature Human Behavior_"
+publication: "Forthcoming in _Nature Human Behavior_"
 publication_short: ""
 
-abstract: ""
+abstract: "More than 60,000 people are victimized by gun violence each year in the United States. A large share of victims cluster in bounded and identifiable social networks. Despite a growing number of violence reduction programs that implicitly or explicitly leverage social networks to broaden programmatic effects, there is little evidence to suggest that reductions in gun violence are achieved through spillover effects on the peers of program participants. This study estimates the direct and spillover effects of a large gun violence field-intervention in Chicago, IL. Using a quasi-experimental design, we test whether assigning 2,349 seed individuals to a desistance-based program reduced the incidence of gunshot victimization. The study uses co-arrest network data to further test spillover effects on 6,132 unassigned individuals who did not participate in the program. Direct effects were associated with a 3.2 percentage point reduction in gun violence victimization among seeds over two years, while potential spillover was associated with a 1.5 percentage point reduction in victimization among peers. Findings suggest that peer-influence and the structure of networks might be leveraged to amplify gun violence reduction efforts."
 
 # Summary. An optional shortened abstract.
 summary: ""
