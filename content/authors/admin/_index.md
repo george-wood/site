@@ -74,4 +74,4 @@ user_groups:
 
 ## About Me
 
-I am a postdoctoral fellow in the Institute for Policy Research at Northwestern University. I study social disparities in public health and criminal justice outcomes. As part of this work, I evaluate the effects of social programs and interventions that aim to reduce gunshot victimization and police misconduct. My work combines field-experiments and natural experiments with large-scale behavioral data. I am also interested in causal inference, network analysis, and spatial statistics.
+I am a postdoctoral fellow in the Institute for Policy Research at Northwestern University. I study disparities in public health and criminal justice. As part of this work, I evaluate the effects of social programs and interventions that aim to reduce gunshot victimization, police misconduct, and police use of force. My work combines field-experiments and natural experiments with large-scale behavioral data. I am also interested in causal inference, network analysis, and spatial statistics.
