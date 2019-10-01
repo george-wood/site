@@ -3,7 +3,7 @@
 
 title: "Reducing gunshot victimization in high-risk social networks through direct and spillover effects"
 authors: [George Wood, Andrew Papachristos]
-date: 2019-08-01
+date: 2019-10-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

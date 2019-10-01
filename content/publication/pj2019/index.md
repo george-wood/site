@@ -3,7 +3,7 @@
 
 title: "Procedural justice training reduces police misconduct and use of force"
 authors: [George Wood, Tom Tyler, Andrew Papachristos]
-date: "2019-08-01"
+date: 2019-08-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
