@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Procedural justice training reduces police misconduct and use of force"
+title: "Procedural justice training reduces police use of force and complaints against officers"
 authors: [George Wood, Tom Tyler, Andrew Papachristos]
-date: 2019-08-01
+date: 2020-04-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,11 @@ publishDate: 2019-08-08T14:34:07-04:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "_Proceedings of the National Academy of Sciences_"
 publication_short: ""
 
-abstract: "Existing research shows that distrust of the police is widespread and consequential for public safety. However, there is a shortage of interventions that demonstrably reduce negative police interactions with the communities they serve. A one-day training program in Chicago attempted to encourage 7,279 officers to adopt procedural justice policing strategies. Evaluating the randomized staggered adoption of this program, we find that training reduced complaints against the police by 14%. Further, training reduced the use of force against civilians by 8.7% and officers were less likely to engage in con- duct that results in settlements and the payout of damages, reductions that were maintained for at least one year. These findings affirm the feasibility of changing the style of policing which has been associated with popular distrust and the excessive use of force through a broad training program built around the concept of procedurally just policing."
+
+abstract: "Existing research shows that distrust of the police is widespread and consequential for public safety. However, there is a shortage of interventions that demonstrably reduce negative police interactions with the communities they serve. A training program in Chicago attempted to encourage 8,480 officers to adopt procedural justice policing strategies. These strategies emphasize respect, neutrality, and transparency in the exercise of authority, while providing opportunities for civilians to explain their side of events. We find that training reduced complaints against the police by 10.0% and reduced the use of force against civilians by 6.4% over 2 y. These findings affirm the feasibility of changing the command and control style of policing which has been associated with popular distrust and the use of force, through a broad training program built around the concept of procedurally just policing."
 
 # Summary. An optional shortened abstract.
 summary: ""
