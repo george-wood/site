@@ -13,12 +13,11 @@ publishDate: 2019-08-08T14:34:07-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Proceedings of the National Academy of Sciences_"
 publication_short: ""
-
 
 abstract: "Existing research shows that distrust of the police is widespread and consequential for public safety. However, there is a shortage of interventions that demonstrably reduce negative police interactions with the communities they serve. A training program in Chicago attempted to encourage 8,480 officers to adopt procedural justice policing strategies. These strategies emphasize respect, neutrality, and transparency in the exercise of authority, while providing opportunities for civilians to explain their side of events. We find that training reduced complaints against the police by 10.0% and reduced the use of force against civilians by 6.4% over 2 y. These findings affirm the feasibility of changing the command and control style of policing which has been associated with popular distrust and the use of force, through a broad training program built around the concept of procedurally just policing."
 
