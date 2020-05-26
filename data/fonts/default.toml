@@ -6,8 +6,8 @@ google_fonts = "Source+Sans+Pro:400,400italic,700|Fira+Mono:400"
 
 # Font families
 heading_font = "Source Sans Pro"
-body_font = "Source Sans Pr"
-nav_font = "Source Sans Pr"
+body_font = "Source Sans Pro"
+nav_font = "Source Sans Pro"
 mono_font = "Fira Mono"
 
 # Font size
