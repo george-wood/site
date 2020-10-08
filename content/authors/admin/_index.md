@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Moore-Sloan Faculty Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
+- name: New York University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include gun violence, police behavior, and causal inference.
+bio:
 
-interests:
-- Gun violence
-- Police behavior
-- Social networks
-- Computational social science
-- Causal inference
+# interests:
+# - Gun violence
+# - Police behavior
+# - Social networks
+# - Computational social science
+# - Causal inference
 
 education:
   courses:
@@ -74,4 +74,6 @@ user_groups:
 
 ## About Me
 
-I am a postdoctoral fellow in the Institute for Policy Research at Northwestern University. My research examines social disparities in public health and criminal justice. As part of this work, I evaluate the effects of social programs and interventions that aim to reduce gunshot victimization, police misconduct, and police use of force. My work combines field-experiments and natural experiments with large-scale behavioral data. I am also interested in social networks and causal inference.
+I am Moore-Sloan Faculty Fellow in the Center for Data Science at New York University.
+
+My research examines inequalities in public health and criminal justice. As part of this work, I evaluate the effects of social programs and interventions that aim to reduce gunshot victimization, police misconduct, and police use of force. My work combines field-experiments with large-scale behavioral data. I am also interested in social networks and causal inference.
