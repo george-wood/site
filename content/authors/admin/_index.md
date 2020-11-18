@@ -72,8 +72,6 @@ user_groups:
 - Visitors
 ---
 
-## About Me
+I am a Moore-Sloan Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at New York University.
 
-I am Moore-Sloan Faculty Fellow in the Center for Data Science at New York University.
-
-My research examines inequalities in public health and criminal justice. As part of this work, I evaluate the effects of social programs and interventions that aim to reduce gunshot victimization, police misconduct, and police use of force. My work combines field-experiments with large-scale behavioral data. I am also interested in social networks and causal inference.
+My research examines inequalities in public health and criminal justice. As part of this work, I evaluate the effects of social programs and interventions that aim to reduce gunshot victimization, police misconduct, and police use of force. I also develop tools to enhance transparency and accountability in policing. Before joining NYU, I was a Postdoctoral Associate at Northwestern University and Yale University. I receiving my PhD from [Nuffield College, University of Oxford](https://www.nuffield.ox.ac.uk/) in 2017.
