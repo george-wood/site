@@ -73,8 +73,6 @@ user_groups:
 ---
 
 <br>
-<br>
-<br>
 
 I am a Moore-Sloan Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at New York University.
 
