@@ -27,17 +27,17 @@ bio:
 # - Computational social science
 # - Causal inference
 
-education:
-  courses:
-  - course: PhD in Sociology
-    institution: University of Oxford
-    year: 2017
-  - course: MSc in Sociology
-    institution: University of Oxford
-    year: 2012
-  - course: BA in Sociology
-    institution: University of Sheffield
-    year: 2011
+# education:
+#   courses:
+#   - course: PhD in Sociology
+#     institution: University of Oxford
+#     year: 2017
+#   - course: MSc in Sociology
+#     institution: University of Oxford
+#     year: 2012
+#   - course: BA in Sociology
+#     institution: University of Sheffield
+#     year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -71,6 +71,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+#
 
 I am a Moore-Sloan Faculty Fellow in the [Center for Data Science](https://cds.nyu.edu/) at New York University.
 
